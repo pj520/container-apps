@@ -6,7 +6,7 @@
         "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/app_gitlab.png",
         "displayName": "GitLab",
         "name": "gitlab",
-        "version": "11.10.4",
+        "version": "12.7.5",
         "location": "https://hub.docker.com/r/sameersbn/gitlab",
         "type": "app"
     },
